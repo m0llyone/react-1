@@ -1,0 +1,9 @@
+.text {
+  max-width: 540px;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  color: white;
+  margin: 27px 0 58px;
+}
